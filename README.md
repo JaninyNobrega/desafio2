@@ -88,6 +88,6 @@ M = C \times (1 + i)^t
 
 ## 📸 Demonstração
 
-*(adicione aqui prints de tela do seu projeto em execução)*
+<img width="890" height="756" alt="image" src="https://github.com/user-attachments/assets/bca4579f-0936-45b8-810a-dbb320f8977d" />
 
 ---
