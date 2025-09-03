@@ -98,3 +98,23 @@ footer p {
   color: #e67e22;
 }
 
+#whatsapp-button {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  z-index: 1000;
+}
+
+#whatsapp-button img {
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
+  box-shadow: 0 4px 6px rgba(0,0,0,0.2);
+  transition: transform 0.3s;
+}
+
+#whatsapp-button img:hover {
+  transform: scale(1.1);
+}
+
+
