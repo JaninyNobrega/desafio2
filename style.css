@@ -98,6 +98,7 @@ footer p {
   color: #e67e22;
 }
 
+/* Botão WhatsApp flutuante */
 #whatsapp-button {
   position: fixed;
   bottom: 20px;
